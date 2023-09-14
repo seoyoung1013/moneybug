@@ -358,6 +358,9 @@ dev 브랜치로 merge된 이후에는 변경된 기능을 확인하고, main �
    <summary> 본문 확인 (👈 Click)</summary>
 <br />
 
+배포한 주소입니다.
+https://moneybug.site/moneybug/main.jsp
+
 </details>
 
 <br>
