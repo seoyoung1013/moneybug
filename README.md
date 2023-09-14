@@ -359,7 +359,12 @@ dev 브랜치로 merge된 이후에는 변경된 기능을 확인하고, main �
 <br />
 
 배포한 주소입니다.
+
+카카오와 네이버는 사업자등록증이 있어야 인원수 제한 없이 사용가능하여, 구글로 로그인해주시면 됩니다.
+
+
 https://moneybug.site/moneybug/main.jsp
+
 
 </details>
 
