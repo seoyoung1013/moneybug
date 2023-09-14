@@ -238,7 +238,7 @@
 <br />
 
 <div align="center">
- <img src="/images/wbs.PNG" alt="wbs">
+ <img src="/images/wbs.png" alt="wbs">
 </div>
 </details>
 
