@@ -345,7 +345,7 @@ dev 브랜치로 merge된 이후에는 변경된 기능을 확인하고, main �
 
 
 <div align="center">
- <img src="/images/erd.png" alt="erd">
+ <img src="/images/erd.PNG" alt="erd">
 </div>
 
 </details>
@@ -368,23 +368,6 @@ dev 브랜치로 merge된 이후에는 변경된 기능을 확인하고, main �
 <details>
    <summary> 본문 확인 (👈 Click)</summary>
 <br />
-
-</details>
-
-<br>
-
-# 🎞 시연 영상
-
-<details>
-   <summary> 본문 확인 (👈 Click)</summary>
-<br />
-
-
-[시연 영상]
-<div align="center">
- <img src="/images/moneybug.mp4" alt="moneybug">
-</div>
-시연 영상입니다.
 
 </details>
 
