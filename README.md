@@ -370,25 +370,3 @@ https://moneybug.site/moneybug/main.jsp
 
 <br>
 
-
-# 📌 성과 및 회고 <a name = "retrospection"></a>
-
-<details>
-   <summary> 본문 확인 (👈 Click)</summary>
-<br />
-
-</details>
-
-<br>
-
-# ✍️ 프로젝트 종료 이후 혼자서 진행한 리팩토링 <a name = "update"></a>
-
-<details>
-   <summary> 본문 확인 (👈 Click)</summary>
-<br />
-
-<br>
-
-</details>
-
-<br>
